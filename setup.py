@@ -29,6 +29,7 @@ setup(name='wcc.ewnpolicy',
           'plone.app.dexterity',
           'plone.namedfile [blobs]',
           'collective.grok',
+          'wcc.theme'
           # -*- Extra requirements: -*-
       ],
       extras_require={
