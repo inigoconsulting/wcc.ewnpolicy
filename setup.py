@@ -30,8 +30,9 @@ setup(name='wcc.ewnpolicy',
           'plone.namedfile [blobs]',
           'collective.grok',
           'wcc.theme',
-          'collective.carousel',
-          'collective.js.jqueryui'
+          'collective.portlet.collectionmultiview',
+          'collective.js.jqueryui',
+          'wcc.twitterportlet'
           # -*- Extra requirements: -*-
       ],
       extras_require={
