@@ -29,7 +29,9 @@ setup(name='wcc.ewnpolicy',
           'plone.app.dexterity',
           'plone.namedfile [blobs]',
           'collective.grok',
-          'wcc.theme'
+          'wcc.theme',
+          'collective.carousel',
+          'collective.js.jqueryui'
           # -*- Extra requirements: -*-
       ],
       extras_require={
