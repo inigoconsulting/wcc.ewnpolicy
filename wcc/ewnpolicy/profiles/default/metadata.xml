@@ -8,5 +8,8 @@
         <dependency>profile-collective.js.jqueryui:default</dependency>
         <dependency>profile-wcc.twitterportlet:default</dependency>
         <dependency>profile-wcc.featurable:default</dependency>
+        <dependency>profile-archetypes.multilingual:default</dependency>
+        <dependency>profile-plone.app.multilingual:default</dependency>
+        <dependency>profile-plone.multilingualbehavior:default</dependency>
     </dependencies>
 </metadata>
