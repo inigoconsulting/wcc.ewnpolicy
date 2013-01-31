@@ -34,6 +34,7 @@ setup(name='wcc.ewnpolicy',
           'collective.js.jqueryui',
           'wcc.twitterportlet',
           'wcc.featurable',
+          'collective.contentleadimage',
           # -*- Extra requirements: -*-
       ],
       extras_require={
