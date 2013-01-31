@@ -32,7 +32,8 @@ setup(name='wcc.ewnpolicy',
           'wcc.theme',
           'collective.portlet.collectionmultiview',
           'collective.js.jqueryui',
-          'wcc.twitterportlet'
+          'wcc.twitterportlet',
+          'wcc.featurable',
           # -*- Extra requirements: -*-
       ],
       extras_require={
