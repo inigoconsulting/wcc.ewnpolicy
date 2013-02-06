@@ -13,6 +13,6 @@
         <dependency>profile-plone.multilingualbehavior:default</dependency>
         <dependency>profile-collective.contentleadimage:default</dependency>
         <dependency>profile-collective.plonetruegallery:default</dependency>
-
+        <dependency>profile-collective.weeklynews:default</dependency>
     </dependencies>
 </metadata>

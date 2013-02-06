@@ -35,7 +35,8 @@ setup(name='wcc.ewnpolicy',
           'wcc.twitterportlet',
           'wcc.featurable',
           'collective.contentleadimage',
-          'collective.plonetruegallery'
+          'collective.plonetruegallery',
+          'wcc.weeklynews',
           # -*- Extra requirements: -*-
       ],
       extras_require={
